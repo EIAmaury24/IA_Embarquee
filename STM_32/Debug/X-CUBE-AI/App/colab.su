@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/colab.c:442:9:colab_configure_activations	16	static
+../X-CUBE-AI/App/colab.c:479:9:colab_configure_weights	16	static
+../X-CUBE-AI/App/colab.c:524:9:ai_colab_get_info	160	static
+../X-CUBE-AI/App/colab.c:571:9:ai_colab_get_report	160	static
+../X-CUBE-AI/App/colab.c:618:10:ai_colab_get_error	16	static
+../X-CUBE-AI/App/colab.c:625:10:ai_colab_create	24	static
+../X-CUBE-AI/App/colab.c:636:10:ai_colab_create_and_init	88	static
+../X-CUBE-AI/App/colab.c:671:12:ai_colab_inputs_get	16	static
+../X-CUBE-AI/App/colab.c:682:12:ai_colab_outputs_get	16	static
+../X-CUBE-AI/App/colab.c:693:11:ai_colab_destroy	16	static
+../X-CUBE-AI/App/colab.c:700:9:ai_colab_init	24	static
+../X-CUBE-AI/App/colab.c:717:8:ai_colab_run	24	static
+../X-CUBE-AI/App/colab.c:725:8:ai_colab_forward	16	static
