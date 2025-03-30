@@ -30,7 +30,7 @@ Ce dossier permet de stocker les fichiers en extension .h5 ainsi que les donnée
 - Le modèle entraîné sur Google Colab sous format h5
 - Les données d'entraînement sous format npy
 
-Le fichier .h5 comprend l'architecture du modèle ainsi que les pondérations du modèle. Cette structure permet ainsi de fournir le modèle à d'autres applications afin d'éviter les phases d'entrainement. Dans notre cas, ce fichier est utilisé pour implémenter l'architecture et les pondérations du modèle au sein de la carte embarqué pour contourner la phase d'entrainement.
+Le fichier .h5 comprend l'architecture du modèle ainsi que les pondérations du modèle entrainé sous Colab. Cette structure permet ainsi de fournir ce modèle à d'autres applications afin d'éviter les phases d'entrainement. Dans notre cas, ce fichier est utilisé pour implémenter l'architecture et les pondérations de notre modèle au sein de la carte embarqué pour contourner la phase d'entrainement.
 
  ### Dossier Colab
 Ce dossier contient :
